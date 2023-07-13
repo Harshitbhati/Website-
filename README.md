@@ -55,7 +55,7 @@
   <section id="8860337547">
     <h2>Contact Me</h2>
     <p>If you have any inquiries or would like to collaborate, please feel free to reach out to me.</p>
-    <p>harshitbhati96@gmail.com: harshitbhati96@gmail.com.com</p>
+    <p>harshitbhati96@gmail.com: harshitbhati4747@gmail.com</p>
     <p>Phone: 8860337547</p>
   </section>
 
